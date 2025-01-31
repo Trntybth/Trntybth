@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Trntybth
+- 👋 Hi, I’m Trinity 
 - 👀 I’m interested in software development with object oriented programming.
 - 🌱 I’m currently learning Java but I am open to learning other languages.
 - 💞️ I’m looking to collaborate on a new android app project!
