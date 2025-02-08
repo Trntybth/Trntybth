@@ -1,7 +1,7 @@
 👋 Hi, I'm Trinity Booth!
 I am a Software Engineering student at the University of Salford. I am 24, looking to grow my career in the field of computer science.
 
-👀 Passionate about software development, with a particular interest in Object-Oriented Programming (OOP) principles and best practices.
+👀 I am passionate about software development, with a particular interest in Object-Oriented Programming (OOP) principles and best practices.
 
 🌱 Currently programming with mostly Java to solidify my programming skills, and eager to explore other languages such as JavaScript & get into front-end..
 
