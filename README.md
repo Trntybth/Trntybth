@@ -11,7 +11,7 @@ I am a Software Engineering student at the University of Salford. I am 24, looki
 
 🚀 Excited to collaborate on projects involving backend development, mobile apps, or full-stack applications.
 
-🎯 Looking for a 2025/26 placement to apply and enhance my skills in a real-world setting, particularly in backend development or mobile app development.
+🎯 Looking for a 2025/26 placement to apply and enhance my skills in a real-world setting, particularly in backend development, DevOps or mobile app development.
 
 🌍 Open to learning new tools and technologies to improve efficiency and scalability in the projects I work on.
 
