@@ -1,5 +1,4 @@
-👋 Hi, I'm Trinity Booth!
-I am a Software Engineering student at the University of Salford.
+👋 Hi, I'm Trinity!
 
 👀 I am passionate about software development, with a particular interest in Object-Oriented Programming (OOP) principles and best practices.
 
